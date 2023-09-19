@@ -1,3 +1,6 @@
+
+## !!!! This repository is meant for educational purposes only. The data and information presented in this repository is not investment advice. !!!!
+
 # Building A Quantitative Momentum Strategy
 
 ## Project Summary
