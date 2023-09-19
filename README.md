@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project was created with the guidance of the FreeCodeCamp Algorithmic Trading course video. The primary objective of this project is to build a Quantitative Momentum Strategy.
+This project was created with the guidance of the FreeCodeCamp Algorithmic Trading course video. The primary objective of this project is to build a quantitative momentum strategy.
 
 ## Credits
 
